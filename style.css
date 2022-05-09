@@ -1,0 +1,40 @@
+.container {
+  text-align: center;
+}
+table {
+  margin: auto;
+}
+button {
+
+  font-size: 21px;
+    width: 91px;
+    height: 60px;
+    background-color: rgb(255 255 218);
+    color: rgb(27 71 22);
+    border-radius: 27px;
+    border: 2px solid;
+    font-style: italic;
+    font-weight: 600;
+}
+input {
+  font-size: 35px;
+  width: 372px;
+  height: 77px;
+  border-radius: 30px;
+  background: rgb(255 255 231);
+  font-weight: 500;
+}
+.calculator{
+  
+    display: inline-block;
+    background-color: rgb(212, 131, 73);
+    padding: 16px;
+    border-radius: 30px;
+}
+.buttonContainer{
+  padding-top: 10px;
+}
+.equal{
+  width: -webkit-fill-available;
+}
+
